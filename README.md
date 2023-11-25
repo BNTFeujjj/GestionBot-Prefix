@@ -61,7 +61,7 @@
 
 # <a id="config"></a>⚙ » Config
 
-Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/SupremBot-Prefix/blob/main/config.json), ouvrez le et dans "buyers" mettez votre ID discord.
+Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config.json), ouvrez le et dans "buyers" mettez votre ID discord.
 
 ```js
 module.exports = {
