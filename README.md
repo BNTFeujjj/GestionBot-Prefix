@@ -56,12 +56,17 @@
 ## <a id="setup"></a> 📁 » Setting up
 
 1. Install [Nodejs](https://nodejs.org/)
-2. Ouvrir le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js) avec Visual Studio Code ou un autre éditeur de texte.
-3. Complèter le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js)
+2. Télécharger le code en .zip
+3. L'extraire 
+4. Rentrer dans le dossier "GestionBot-Prefix-main" et extraire le dossier "source" IMPORTANT 
+5. Supprimer le dossier "source" en zip et garder le nouveau (celui que vous venez d'extraire)
+6. Ouvrir le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js) avec Visual Studio Code ou un autre éditeur de texte.
+7. Complèter le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js)
+8. Mettez vos dossiers et fichiers sur [notre hébergeur de bot discord gratuit](https://discord.gg/Rq6mnAtuMc) ou alors lancer le bot depuis Visual Studio Code.
 
 # <a id="config"></a>⚙ » Config
 
-Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js), ouvrez le et dans "buyers" mettez votre ID discord.
+Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js), ouvrez le et dans "buyers" mettez votre ID discord. Vous pouvez aussi changer la couleur des embeds. ATTENTIOn : Changer le prefix ne fera plus fonctionner certaine commandes comme les tickets. Evidemment, mettez le token de votre bot dans token.
 
 ```js
 module.exports = {
