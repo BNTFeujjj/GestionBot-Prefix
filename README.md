@@ -66,7 +66,7 @@
 
 # <a id="config"></a>⚙ » Config
 
-Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js), ouvrez le et dans "buyers" mettez votre ID discord. Vous pouvez aussi changer la couleur des embeds. ATTENTIOn : Changer le prefix ne fera plus fonctionner certaine commandes comme les tickets. Evidemment, mettez le token de votre bot dans token.
+Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js), ouvrez le et dans "buyers" mettez votre ID discord. Vous pouvez aussi changer la couleur des embeds. ATTENTION : Changer le prefix ne fera plus fonctionner certaine commandes comme les tickets. Evidemment, mettez le token de votre bot dans token.
 
 ```js
 module.exports = {
