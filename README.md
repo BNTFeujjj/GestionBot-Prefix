@@ -56,12 +56,12 @@
 ## <a id="setup"></a> 📁 » Setting up
 
 1. Install [Nodejs](https://nodejs.org/)
-2. Ouvrir le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/config/config.json) avec Visual Studio Code ou un autre éditeur de texte.
-3. Complèter le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/config/config.json).
+2. Ouvrir le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js) avec Visual Studio Code ou un autre éditeur de texte.
+3. Complèter le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js)
 
 # <a id="config"></a>⚙ » Config
 
-Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/config/config.json), ouvrez le et dans "buyers" mettez votre ID discord.
+Si vous voulez changez le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config/config.js), ouvrez le et dans "buyers" mettez votre ID discord.
 
 ```js
 module.exports = {
