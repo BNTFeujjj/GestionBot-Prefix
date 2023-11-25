@@ -56,8 +56,8 @@
 ## <a id="setup"></a> 📁 » Setting up
 
 1. Install [Nodejs](https://nodejs.org/)
-2. Ouvrir le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config.json) avec Visual Studio Code ou un autre éditeur de texte.
-3. Complèter le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/blob/main/config.json).
+2. Ouvrir le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/config.json) avec Visual Studio Code ou un autre éditeur de texte.
+3. Complèter le fichier [config.json](https://github.com/BNTFeujjj/GestionBot-Prefix/config.json).
 
 # <a id="config"></a>⚙ » Config
 
